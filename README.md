@@ -1,6 +1,6 @@
 # Algorithmic-paper-trading-using-Deep-Reinforcement-Learning
 
-This is an application for paper Trading, to test the strategies of investing in real market and observe its performance , before investing the real money.
+This is an application for paper Trading, to test the strategies of investing in stock market and observe its performance , before investing the real money.
 
 ## What Is Paper Trade?
 A paper trade is a simulated trade that allows an investor to practice buying and selling without risking real money. The term dates back to a time when (before the proliferation of online trading platforms) aspiring traders would practice on paper before risking money in live markets. While learning, a paper trader records all trades by hand to keep track of hypothetical trading positions, portfolios, and profits or losses. Today, most practice trading involves the use of an electronic stock market simulator, which looks and feels like an actual trading platform.
