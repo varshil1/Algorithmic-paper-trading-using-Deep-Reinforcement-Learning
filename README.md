@@ -28,7 +28,19 @@ Mr.X, a savvy portfolio manager, has been hired. Mr. X will provide us with dail
 
 > Solution
 
-As in RL , we have action critic roles, we make startegies to take actions in order to maximise our profits. Here actions are sell, hold or buy the shares , and rewards are the profit or loss obtained by respective action.<br/>
+
+
+**Reinforcement learning**<br/>
+
+* Reinforcement learning is a branch of machine learning dedicated to training agents to operate in an environment, in order to maximize their utility in the pursuit of some goals.
+
+* Its underlying idea, is that intelligence is an emergent property of the interaction between an agent and its environment. This property guides the agent’s actions by orienting its choices in the conduct of some tasks.
+
+* The system is described as an agent that interacts with the environment through actions at discrete time steps and is rewarded. This causes the agent to enter a new state. The figure below depicts a classic agent-environment feedback loop.
+
+![This is an image](RL.JPG)
+
+As in RL , we have action critic roles, we make startegies to take actions in order to maximise our profits. Here actions are sell, hold or buy the shares , and rewards are the profit or loss obtained by respective action.
 
 We use **Proximal policy Gradient** to obtain best strategy in order to reach our goal. The theory and mathematical intuition behin the PPO is explained in the .ipynb file. Please first understand the theory of PPO before directly diving into code implementation.
 
@@ -52,8 +64,6 @@ Our program invested automatically through ALPACA API, and got the portfolio giv
 
 
 ## References
-
-https://towardsdatascience.com/proximal-policy-optimization-ppo-with-tensorflow-2-x-89c9430ecc26
 
 https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d
 
