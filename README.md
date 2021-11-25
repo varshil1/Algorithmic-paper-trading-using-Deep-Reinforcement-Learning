@@ -47,5 +47,18 @@ Register in alpaca from [here](https://alpaca.markets) and get your API Key ID &
 
 ### Final Results
 
-We started investing with the virtual money , with portfolio 
+Our program invested automatically through ALPACA API, and got the portfolio given below.
+![This is an image](portfolio.JPG)
 
+
+## References
+
+https://towardsdatascience.com/proximal-policy-optimization-ppo-with-tensorflow-2-x-89c9430ecc26
+
+https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d
+
+PPO paper: https://arxiv.org/abs/1707.06347
+
+TRPO paper: https://arxiv.org/abs/1502.05477
+
+Base implementation of PPO : https://github.com/higgsfield/RL-Adventure-2/blob/master/3.ppo.ipynb
